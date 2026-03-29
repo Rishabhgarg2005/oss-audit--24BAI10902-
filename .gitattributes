@@ -1,3 +1,2 @@
-git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization
 * text=auto
